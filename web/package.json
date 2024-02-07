@@ -11,6 +11,8 @@
     ]
   },
   "dependencies": {
+    "@fontsource-variable/open-sans": "^5.0.23",
+    "@fontsource-variable/spline-sans": "^5.0.18",
     "@redwoodjs/forms": "6.6.4",
     "@redwoodjs/router": "6.6.4",
     "@redwoodjs/web": "6.6.4",
